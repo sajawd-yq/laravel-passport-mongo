@@ -1,10 +1,10 @@
 {
-    "name": "sajawd-yq/laravel-passport-mongoDB",
+    "name": "sajawd-yq/laravel-passport-mongo",
     "description": "Laravel Passport provides OAuth2 server support to Laravel with mongoDB.",
     "keywords": ["laravel", "passport", "oauth","mongoDB"],
     "license": "MIT",
     "support": {
-        "source": "https://github.com/sajawd-yq/laravel-passport-mongoDB"
+        "source": "https://github.com/sajawd-yq/laravel-passport-mongo"
     },
     "authors": [
         {
