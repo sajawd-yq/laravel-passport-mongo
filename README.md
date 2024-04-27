@@ -1,12 +1,3 @@
-<p align="center"><img src="/art/logo.svg" alt="Logo Laravel Passport"></p>
-
-<p align="center">
-<a href="https://github.com/laravel/passport/actions"><img src="https://github.com/laravel/passport/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/passport"><img src="https://img.shields.io/packagist/dt/laravel/passport" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/passport"><img src="https://img.shields.io/packagist/v/laravel/passport" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/passport"><img src="https://img.shields.io/packagist/l/laravel/passport" alt="License"></a>
-</p>
-
 ## Introduction
 
 Laravel Passport is an OAuth2 server and API authentication package that is simple and enjoyable to use.
@@ -28,5 +19,6 @@ In order to ensure that the Laravel community is welcoming to all, please review
 Please review [our security policy](https://github.com/laravel/passport/security/policy) on how to report security vulnerabilities.
 
 ## License
-
+This package is forked of laravel passport package
 Laravel Passport is open-sourced software licensed under the [MIT license](LICENSE.md).
+
