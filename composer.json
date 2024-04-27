@@ -4,7 +4,7 @@
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
     "support": {
-        "source": "https://github.com/sajawd-yq/passport-mongoDB"
+        "source": "https://github.com/sajawd-yq/laravel-passport-mongoDB"
     },
     "authors": [
         {
